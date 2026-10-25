@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
+<item><title>సింథటిక్ నమస్తే వార్త ఒకటి</title><link>https://example.invalid/namasthe-first</link><description>మొదటి నమూనా వార్తా వివరాలు.</description><content:encoded><![CDATA[<p>Synthetic body one.</p><img src="https://example.invalid/nt-one.jpg"><h2>Embedded HTML remains CDATA</h2>]]></content:encoded><pubDate>Sat, 26 Sep 2026 07:00:00 GMT</pubDate></item>
+<item><title>సింథటిక్ నమస్తే వార్త రెండు</title><link>https://example.invalid/namasthe-second</link><description>రెండవ నమూనా వార్తా వివరాలు.</description><content:encoded><![CDATA[<p>Synthetic body two.</p><img src="https://example.invalid/nt-two.jpg">]]></content:encoded><pubDate>Sat, 26 Sep 2026 06:00:00 GMT</pubDate></item>
+</channel></rss>

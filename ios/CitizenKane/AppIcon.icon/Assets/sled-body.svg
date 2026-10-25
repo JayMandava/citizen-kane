@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Sled deck: a single clean silhouette, no text, no clutter -->
+  <g transform="translate(512 512) scale(1.35) translate(-512 -512)">
+    <rect x="192" y="380" width="640" height="230" rx="26" fill="#8A3324"/>
+    <rect x="192" y="380" width="640" height="230" rx="26" fill="none" stroke="#5E2015" stroke-width="8"/>
+    <line x1="192" y1="457" x2="832" y2="457" stroke="#5E2015" stroke-width="7"/>
+    <line x1="192" y1="533" x2="832" y2="533" stroke="#5E2015" stroke-width="7"/>
+  </g>
+</svg>

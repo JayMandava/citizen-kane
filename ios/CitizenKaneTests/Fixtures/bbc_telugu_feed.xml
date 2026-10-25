@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+<item><title>సింథటిక్ బీబీసీ వార్త ఒకటి</title><link>https://example.invalid/bbc-first</link><description>మొదటి నమూనా వార్తా వివరాలు.</description><pubDate>Sat, 26 Sep 2026 07:00:00 GMT</pubDate><media:thumbnail url="https://example.invalid/bbc-one.jpg"/></item>
+<item><title>సింథటిక్ బీబీసీ వార్త రెండు</title><link>https://example.invalid/bbc-second</link><description>రెండవ నమూనా వార్తా వివరాలు.</description><pubDate>Sat, 26 Sep 2026 12:00:00 +0530</pubDate><media:thumbnail url="https://example.invalid/bbc-two.jpg"/></item>
+</channel></rss>

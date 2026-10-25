@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Runners + uprights: the glass accent layer, like Dr Jay's stethoscope -->
+  <g transform="translate(512 512) scale(1.35) translate(-512 -512)">
+    <g fill="none" stroke="#D7DCE2" stroke-width="24" stroke-linecap="round">
+      <path d="M 236 660 L 730 660 Q 800 660 800 590"/>
+      <path d="M 236 720 L 690 720 Q 760 720 760 650"/>
+    </g>
+    <rect x="270" y="608" width="26" height="60" rx="10" fill="#AEB6BE"/>
+    <rect x="700" y="608" width="26" height="60" rx="10" fill="#AEB6BE"/>
+  </g>
+</svg>
